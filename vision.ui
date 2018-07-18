@@ -730,7 +730,7 @@
      </item>
      <item>
       <property name="text">
-       <string>RK Tree</string>
+       <string>KD Tree</string>
       </property>
      </item>
     </widget>
